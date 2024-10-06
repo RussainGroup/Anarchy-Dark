@@ -11,3 +11,4 @@ If You Got Any Problems Join Our Discord And Open a Ticket https://discord.gg/cU
 # ScreenShot
 ![Screenshot 2024-10-06 155239](https://github.com/user-attachments/assets/f015e678-85ea-4248-afc1-4d4aaf46526a)
 
+Password : Russain
